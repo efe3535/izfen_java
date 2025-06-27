@@ -1,0 +1,6 @@
+1-  Giriş - Hello World, main nedir?
+2-  Numara - Ekrana nasıl numara yazdırılır?
+3-  Yorum - Yorum satırları nasıl oluşturulur?
+4-  Değişkenler + Veri Tipleri nelerdir?
+5-  Veri Tipleri Arası Dönüşüm
+6-  Operatörler
